@@ -1,4 +1,4 @@
-# programbangundatar
+# FINAL PROJECT SISTEM OPERASI
 Program Menghitung Luas dan Keliling Bangun Datar
 import os
 
